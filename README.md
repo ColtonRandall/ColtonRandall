@@ -12,7 +12,7 @@
      - I will be transitioning into a Masters in IT, specialising in Software Engineering next semester. 
      
 - 📫 How to reach me ... 
-    - colton.randall@outlook.com or,
+    - coltondominicrandall@gmail.com or,
     - https://www.linkedin.com/in/coltonrandall/
 
 <!---
