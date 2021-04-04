@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ColtonRandall, a postgraduate student at the University of Auckland. 
 
 - 👀 I’m interested in ... 
-    - All things Aviation and flying around Auckland city with my pilot license (a childhood dream/endeavour). 
+    - Aviation - I passed my Private Pilot License flight test in November 2019.
     - Movies - Superhero films, Lord of the Rings, Shawshank Redemption, you name it. 
-    - Running - working towards completing a half / full-marathon
-    - Hiking / Walking 
+    - Running, Hiking / Walking.
+    - Being creative - Building unique webpages and sketching.
     
 - 🌱 I’m currently studying ... 
     - A PGCert in Programming technologies / Web Development. 
