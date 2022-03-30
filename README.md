@@ -1,19 +1,15 @@
-- 👋 Hi, I’m @ColtonRandall, a postgraduate student at the University of Auckland. 
+- 👋 Hi, I’m @ColtonRandall, a Graduate Engineer at Xero. 
 
-- :mortar_board: Current and future education prospects...
-    - 2022: Masters in IT, specialising in Software Engineering and Health Informatics 
+- :mortar_board: Education
+    - 2021: Postgrad studies in IT, specialising in Software Engineering and Health Informatics 
     - 2018: BSc in Biochemistry
 
 - 👀 I’m interested in ... 
+    - Exploring new software tools/languages and implementing them in personal projects. 
     - The intersection of Biochemistry and programming / genetic engineering / Bioinformatics. 
     - Aviation -  Private Pilot license, November 2019.
     - Movies - Superhero films, Lord of the Rings, Shawshank Redemption, you name it. 
     - Running, Hiking / Walking.
-    
-- 🌱 I’m currently studying ... 
-    - A PGCert in Programming technologies / Web Development. 
-        - Languages/skills covered so far: Java, HTML, CSS, JavaScript, JSON, AJAX, Bash, Git and GitLab/GitHub :octocat:
-    - I will be transitioning into a Masters of Information Technology, specialising in Software Engineering next semester. 
      
 - 📫 How to reach me ... 
     - coltondominicrandall@gmail.com or,
