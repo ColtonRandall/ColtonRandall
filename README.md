@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ColtonRandall, a Graduate Engineer at Xero. 
+- 👋 Hi, I’m Colton Randall, a Graduate Engineer at Xero. 
 
-- :mortar_board: Education
+- :mortar_board: Studies
     - 2021: Postgrad studies in IT, specialising in Software Engineering and Health Informatics 
+    - 2019-2020: Self taught programming
     - 2018: BSc in Biochemistry
 
 - 👀 I’m interested in ... 
