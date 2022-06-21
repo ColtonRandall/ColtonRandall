@@ -9,7 +9,7 @@
     - The intersection of Biochemistry and programming / genetic engineering / Bioinformatics. 
     - Aviation -  Private Pilot license, November 2019.
     - Movies - Superhero films, Lord of the Rings, Shawshank Redemption, you name it. 
-    - Running, Hiking / Walking.
+    - Running & Hiking.
      
 - 📫 How to reach me ... 
     - coltondominicrandall@gmail.com or,
