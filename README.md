@@ -1,16 +1,14 @@
 - 👋 Hi, I’m Colton Randall, a Graduate Engineer at Xero. 
 
 - :mortar_board: Studies
-    - 2021: Postgrad studies in IT, specialising in Software Engineering and Health Informatics 
-    - 2019-2020: Self taught programming
-    - 2018: BSc in Biochemistry
+    - 2021: Postgrad studies in IT, specialising in Software Engineering and Health Informatics.
+    - 2019-2020: Self taught programming (especially during COVID lockdowns).
+    - 2018: BSc in Biochemistry.
 
 - 👀 I’m interested in ... 
-    - Exploring new software tools/languages and implementing them in personal projects. 
+    - Experimenting with new software tools/languages and using them in personal projects. 
     - The intersection of Biochemistry and programming / genetic engineering / Bioinformatics. 
-    - Aviation -  Private Pilot license, November 2019.
-    - Movies - Superhero films, Lord of the Rings, Shawshank Redemption, you name it. 
-    - Running & Hiking.
+    - Running, hiking & exploring the outdoors.
      
 - 📫 How to reach me ... 
     - coltondominicrandall@gmail.com or,
