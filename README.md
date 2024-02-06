@@ -11,7 +11,7 @@
     - Running, hiking & exploring the outdoors.
      
 - 📫 How to reach me ... 
-    - coltondominicrandall@gmail.com or,
+    - coltonrandall.nz@gmail.com or,
     - https://www.linkedin.com/in/coltonrandall/
 
 <!---
