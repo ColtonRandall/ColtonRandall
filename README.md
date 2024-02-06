@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Colton Randall, an Associate Engineer at Xero. 
 
 - :mortar_board: Studies
+    - 2022 and beyond: Engineer @ Xero 
     - 2021: Postgrad studies in IT, specialising in Software Engineering and Health Informatics.
     - 2019-2020: Self taught programming (especially during COVID lockdowns).
     - 2018: BSc in Biochemistry.
