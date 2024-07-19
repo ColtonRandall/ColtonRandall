@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Colton Randall, an Associate Engineer at Xero. 
+- 👋 Hi, I’m Colton Randall, a Software Engineer at Xero. 
 
 - :mortar_board: Studies
     - 2022 and beyond: Engineer @ Xero 
