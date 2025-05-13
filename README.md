@@ -1,19 +1,18 @@
-- 👋 Hi, I’m Colton Randall, a Software Engineer at Xero. 
+#### 🚀 The Road So Far...
 
-- :mortar_board: Studies
-    - 2022 and beyond: Engineer @ Xero 
-    - 2021: Postgrad studies in IT, specialising in Software Engineering and Health Informatics.
-    - 2019-2020: Self taught programming (especially during COVID lockdowns).
-    - 2018: BSc in Biochemistry.
+| Year        | Experience                                                                 |
+|-------------|-----------------------------------------------------------------------------|
+| **2025**    | Backend Software Engineer @ *Westpac New Zealand*                                      |
+| **2021–24** | Full-stack Engineer @ *Xero*                                               |
+| **2021**    | Postgraduate Studies in IT - *Specialisation in Software Engineering & Health Informatics* |
+| **2020**    | • Self-taught programming during COVID lockdowns  <br> • Bioinformatics Research Assistant @ *University of Auckland* |
+| **2018**    | BSc in Biochemistry and Bioinformatics(R programming to analyse DNA genomes in cancer)                                                      |
 
-- 👀 I’m interested in ... 
-    - Experimenting with new software tools/languages and using them in personal projects. 
-    - The intersection of Biochemistry and programming / genetic engineering / Bioinformatics. 
-    - Running, hiking & exploring the outdoors.
-     
-- 📫 How to reach me ... 
-    - coltonrandall.nz@gmail.com or,
-    - https://www.linkedin.com/in/coltonrandall/
+<br>
+
+ 📬 Flick me a message! 
+- <a href="mailto:coltonrandall.nz@gmail.com">Email</a>
+- [Linkedin](https://www.linkedin.com/in/coltonrandall/)
 
 <!---
 ColtonRandall/ColtonRandall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
