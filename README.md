@@ -1,22 +1,21 @@
-#### 🚀 The Road So Far...
+#### 🗺️ The Road So Far...
+<br>
 
-| Year        | Experience                                                                 |
-|-------------|-----------------------------------------------------------------------------|
-| **2025**    | Backend Software Engineer @ ***Westpac New Zealand***                                      |
-| **2021–24** | Full-stack Engineer @ ***Xero***                                               |
-| **2021**    | Postgraduate Studies in IT - ***Specialisation in Software Engineering & Health Informatics*** |
-| **2020**    | • Self-taught programming during COVID lockdowns  <br> • Bioinformatics Research Assistant @ ***University of Auckland*** |
-| **2018**    | BSc in ***Biochemistry and Bioinformatics*** (R programming to analyse DNA genomes in cancer)                                                      |
+| Year        | Role                              | Company               | Tech Stack |
+|-------------|-----------------------------------|----------------------| ----------- |
+| **2025**    | Backend Software Engineer         | ***Westpac New Zealand*** | Java 17+, Spring Boot, K8s, REST APIs  |
+| **2021–2025** | Full-stack Engineer             | ***Xero*** | C# / .NET, React / Typescript, AWS, Docker, K8s, SQL |
+| **2021**    | Postgraduate Studies in IT        | ***Software Engineering & Health Informatics*** | Java, JavaScript, CSS, Node.js, SQL |
+| **2020**    | Bioinformatics Research Assistant | ***University of Auckland*** | Python, Bash scripting |
+| **2020**    | Self-taught programming during COVID lockdowns |  | Python, JavaScript, CSS, HTML |
+| **2015-2018** | Student - BSc                    | ***Biochemistry and Bioinformatics*** | R programming to analyse DNA genomes in cancer / oncological contexts |
+
 
 <br>
 <hr>
 <br>
 
- 📬 Flick me a message! 
+
+ ⌯⌲ Get in touch with me! 
 - <a href="mailto:coltonrandall.nz@gmail.com">Email</a>
 - [Linkedin](https://www.linkedin.com/in/coltonrandall/)
-
-<!---
-ColtonRandall/ColtonRandall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
