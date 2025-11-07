@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Colton Randall
 
-### Software Engineer | Full-Stack Developer | Bioinformatics Graduate
+### Software Engineer | Full-Stack | Bioinformatics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coltonrandall/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://coltonrandall.com)
@@ -12,31 +12,31 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Who I Am
 
-I'm a passionate **Software Engineer** with a unique blend of full-stack development expertise and bioinformatics background. With 4+ years of professional experience building scalable, high-performance applications, I thrive at the intersection of technology and problem-solving.
+I'm a passionate **Software Engineer** with a unique blend of full-stack development expertise in SaaS/product and enterprise landscapes, with a bioinformatics background. With 4+ years of professional experience building scalable, high-performance applications, I thrive at the intersection of technology and problem-solving.
 
-My journey from biochemistry research to enterprise software engineering has given me a distinctive analytical mindset and the ability to tackle complex challenges from multiple angles.
+My journey from biochemistry to software engineering has given me a distinctive analytical mindset and the ability to tackle complex challenges from multiple angles.
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏦 **Software Engineer** @ [Westpac New Zealand](https://www.westpac.co.nz/)
+### **Software Engineer** @ [Westpac New Zealand](https://www.westpac.co.nz/)
 **⭐️ 2025 - Present**
 - Building enterprise-scale banking solutions using **Java** and **Spring Boot**
 - Designing and architecting robust systems and **REST APIs**
 - Contributing to critical financial infrastructure serving thousands of customers
 
-### 💳 **Full-Stack Software Engineer** @ [Xero](https://www.xero.com/)
-**2021 - 2025** • *4 years*
+### **Full-Stack Software Engineer** @ [Xero](https://www.xero.com/)
+**2021 - 2025** • *3.5 years*
 - Delivered end-to-end features for one of the world's leading accounting platforms
 - **Backend:** C# / .NET ecosystem with focus on scalability and performance
 - **Frontend:** React / TypeScript for intuitive user experiences
 - **Infrastructure:** AWS, Docker, Kubernetes for cloud-native deployments
 - **Data:** SQL database design and optimization
 
-### 🧬 **Bioinformatics Research Assistant** @ University of Auckland
+### **Bioinformatics Research Assistant** @ University of Auckland
 **2020**
 - Developed **Python** and **Bash** scripts for genomic data analysis
 - Automated research workflows and data processing pipelines
@@ -45,13 +45,13 @@ My journey from biochemistry research to enterprise software engineering has giv
 
 ## 🎓 Education
 
-**🎓 Postgraduate Studies** • Software Engineering & Health Informatics  
+**Postgraduate Studies** • Software Engineering & Health Informatics  
 *University of Auckland* • **2021**
 - Tech Stack: Java, JavaScript, Node.js, SQL, Full-stack web development
 
-**🎓 BSc in Biochemistry and Bioinformatics**  
+**BSc in Biochemistry**  
 *University of Otago* • **2015 - 2018**
-- Specialized in R programming for DNA genome analysis in oncological research
+- Educational experience in R programming for DNA genome analysis in oncological research
 - Applied computational methods to cancer research contexts
 
 ---
@@ -59,10 +59,10 @@ My journey from biochemistry research to enterprise software engineering has giv
 ## 🛠️ Technical Skills
 
 ```text
-Languages       : Java, C#, Python, TypeScript/JavaScript, SQL, R, Bash
+Languages       : Java, C#, TypeScript/JavaScript, SQL, Bash
 Backend         : Spring Boot, .NET, Node.js, REST APIs
-Frontend        : React, HTML/CSS
-Cloud & DevOps  : AWS, Docker, Kubernetes
+Frontend        : React, JavaScript, HTML/CSS
+Cloud & DevOps  : AWS, Terraform, Docker, Kubernetes
 Databases       : SQL (PostgreSQL, SQL Server)
 Architecture    : System Design, Microservices, Cloud-Native Development
 ```
@@ -73,15 +73,14 @@ Architecture    : System Design, Microservices, Cloud-Native Development
 
 - 🧬 **Unique Background:** Rare combination of biological sciences and software engineering
 - 🎯 **Full-Stack Versatility:** Comfortable across the entire technology stack
-- 📈 **Proven Track Record:** 4+ years delivering production software at leading NZ companies
+- 📈 **Proven Track Record:** 4+ years delivering production software at leading SaaS and enterprise companies in NZ
 - 🔬 **Analytical Mindset:** Research background brings rigorous problem-solving approach
-- 🚀 **Self-Driven Learner:** Self-taught programming during COVID, continuously upskilling
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always interested in discussing new opportunities, collaborating on interesting projects, or just connecting with fellow developers!
+I'm always interested in discussing new opportunities, collaborating on interesting projects, or just connecting with fellow engineers!
 
 <div align="center">
 
