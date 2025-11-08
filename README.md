@@ -30,10 +30,10 @@ My journey from biochemistry to software engineering has given me a distinctive 
 ## 💼 Experience
 
 **Software Engineer** @ [Westpac New Zealand](https://www.westpac.co.nz/) • *2025 – Present*  
-Building enterprise banking solutions using **Java** and **Spring Boot**.
+Building and architecting enterprise banking solutions at scale using **Java** and **Spring Boot**.
 
 **Full-Stack Engineer** @ [Xero](https://www.xero.com/) • *2021 – 2025*  
-Delivered product features serving millions of users • **C# / .NET** • **React / TypeScript** • **AWS / Kubernetes**.
+Developed product features serving thousands of users in a cloud accounting context • **C# / .NET** • **React / TypeScript** • **AWS / Kubernetes**.
 
 **Bioinformatics Research Assistant** @ University of Auckland • *2020*  
 Genomic data analysis using **Python** and **Bash**.
@@ -50,7 +50,6 @@ Genomic data analysis using **Python** and **Bash**.
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,9 +63,9 @@ Genomic data analysis using **Python** and **Bash**.
 
 ## 🌟 Featured Projects
 
-- [**[Modern Banking App](https://github.com/ColtonRandall/banking-app)**] – A modern full-stack banking app built with React + TypeScript and Java Spring Boot, featuring Dockerised PostgreSQL, fully integrated REST APIs, and a modular, production-ready architecture.  
-- [**[AI Code Explainer](https://github.com/ColtonRandall/ai-code-explainer)**] – A minimal web app that uses free AI (via OpenRouter) to explain code snippets.
-- [**[Personal Portfolio Website](https://coltonrandall.com)**] – React + TypeScript portfolio showcasing selected work.
+- [**[Modern Banking App](https://github.com/ColtonRandall/banking-app)**] – A modern full-stack banking app built with a React/TypeScript UI and Java/Spring Boot backend, featuring Dockerised PostgreSQL, fully integrated REST APIs, and a modular, production-ready architecture.  
+- [**[AI Code Explainer](https://github.com/ColtonRandall/ai-code-explainer)**] – A minimal web interface that uses a free AI LLM (via OpenRouter) to explain code snippets - Used as a canvas for experimenting with AI models.
+- [**[Personal Portfolio Website](https://coltonrandall.com)**] – React + TypeScript portfolio showcasing my background and selected work.
 
 
 <div align="center">
