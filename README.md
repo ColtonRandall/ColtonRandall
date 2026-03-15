@@ -29,7 +29,10 @@ My journey from biochemistry to software engineering has given me a distinctive 
 
 ## 💼 Experience
 
-**Software Engineer** @ [Westpac New Zealand](https://www.westpac.co.nz/) • *2025 – Present*  
+**Software Engineer** @ [Sinch](https://sinch.com) • *2026 – Present*  
+Communications platform as a service building APIs powering messaging, voice, and email at global scale, using **Java, Spring Boot and AWS**
+
+**Software Engineer** @ [Westpac New Zealand](https://www.westpac.co.nz/) • *2025 – 2026*  
 Building and architecting enterprise banking solutions at scale using **Java** and **Spring Boot**.
 
 **Full-Stack Engineer** @ [Xero](https://www.xero.com/) • *2021 – 2025*  
