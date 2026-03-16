@@ -44,7 +44,7 @@ Genomic data analysis using **Python** and **Bash**.
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -63,13 +63,6 @@ Genomic data analysis using **Python** and **Bash**.
 </div>
 
 <br>
-
-## 🌟 Featured Projects
-
-- [**[Modern Banking App](https://github.com/ColtonRandall/banking-app)**] – A modern full-stack banking app built with a React/TypeScript UI and Java/Spring Boot backend, featuring Dockerised PostgreSQL, fully integrated REST APIs, and a modular, production-ready architecture.  
-- [**[AI Code Explainer](https://github.com/ColtonRandall/ai-code-explainer)**] – A minimal web interface that uses a free AI LLM (via OpenRouter) to explain code snippets - Used as a canvas for experimenting with AI models.
-- [**[Personal Portfolio Website](https://coltonrandall.com)**] – React + TypeScript portfolio showcasing my background and selected work.
-
 
 <div align="center">
 
